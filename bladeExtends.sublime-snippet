@@ -1,0 +1,4 @@
+<snippet>
+    <content><![CDATA[@extends('${1:layout}')]]></content>
+    <tabTrigger>@extends</tabTrigger>
+</snippet>
